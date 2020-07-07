@@ -1,21 +1,20 @@
 .row{
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 .row > div{
-    border: 5px solid white;
-    background-color: wheat;
+  border: 5px solid white;
+  background-color: wheat;
 }
 #nav-list{
   margin-top: 10px;
-}
-#nav-list a {
-  text-align: center;
 }
 
 h2{
   margin-bottom: 30px;
 }
-
+h3{
+  text-align: center;
+}
 #section1{
   padding: 20px;
 }
