@@ -1,0 +1,27 @@
+.row{
+    margin-bottom: 15px;
+}
+.row > div{
+    border: 5px solid white;
+    background-color: wheat;
+}
+#nav-list{
+  margin-top: 10px;
+}
+#nav-list a {
+  text-align: center;
+}
+
+h2{
+  margin-bottom: 30px;
+}
+
+#section1{
+  padding: 20px;
+}
+#section2{
+  padding: 20px;
+}
+#section3{
+  padding: 20px;
+}
